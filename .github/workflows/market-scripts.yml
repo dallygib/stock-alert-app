@@ -4,6 +4,7 @@ on:
   schedule:
     # Every 3 minutes from 11:45 to 23:30 UTC, Mon-Fri
     - cron: '*/3 11-23 * * 1-5'
+  workflow_dispatch:
 
 jobs:
   run-market-script:
