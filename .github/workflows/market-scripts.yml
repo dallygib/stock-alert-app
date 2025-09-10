@@ -45,5 +45,5 @@ jobs:
             exit 0
           fi
 
-          echo "Running: node fmpTopGainers.js $arg"
-          node fmpTopGainers.js $arg
+          echo "Running: node lib/fmpTopGainers.js $arg"
+          node lib/fmpTopGainers.js $arg
