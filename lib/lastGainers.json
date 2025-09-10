@@ -1,0 +1,102 @@
+{
+  "STEC": {
+    "price": 3.03,
+    "percentGain": 359.09091
+  },
+  "CWD": {
+    "price": 9.11,
+    "percentGain": 323.72093
+  },
+  "DSY": {
+    "price": 2.75,
+    "percentGain": 169.60784
+  },
+  "ISPC": {
+    "price": 1.94,
+    "percentGain": 159.67073
+  },
+  "JEM": {
+    "price": 0.68,
+    "percentGain": 130.50847
+  },
+  "CDTG": {
+    "price": 1.04,
+    "percentGain": 88.43993
+  },
+  "SYRA": {
+    "price": 0.1,
+    "percentGain": 81.81818
+  },
+  "NAKA": {
+    "price": 8.08,
+    "percentGain": 77.19298
+  },
+  "MMA": {
+    "price": 1.45,
+    "percentGain": 70.58824
+  },
+  "SOS": {
+    "price": 2.04,
+    "percentGain": 70
+  },
+  "PTNM": {
+    "price": 4.53,
+    "percentGain": 65.32847
+  },
+  "UFG": {
+    "price": 9.65,
+    "percentGain": 51.9685
+  },
+  "SAIH": {
+    "price": 8.5,
+    "percentGain": 50.43982
+  },
+  "VINC": {
+    "price": 0.051,
+    "percentGain": 48.68805
+  },
+  "WOLF": {
+    "price": 1.82,
+    "percentGain": 47.96748
+  },
+  "CHSN": {
+    "price": 3.24,
+    "percentGain": 47.94521
+  },
+  "VERI": {
+    "price": 3.84,
+    "percentGain": 46.0076
+  },
+  "XHG": {
+    "price": 1.31,
+    "percentGain": 39.95726
+  },
+  "ITP": {
+    "price": 0.283,
+    "percentGain": 38.72549
+  },
+  "PRPH": {
+    "price": 0.515,
+    "percentGain": 35.49066
+  },
+  "HYPD": {
+    "price": 8.75,
+    "percentGain": 35.03086
+  },
+  "ENGS": {
+    "price": 5.71,
+    "percentGain": 34.19506
+  },
+  "LGHL": {
+    "price": 1.99,
+    "percentGain": 32.66667
+  },
+  "GMHS": {
+    "price": 2.29,
+    "percentGain": 32.36994
+  },
+  "RAY": {
+    "price": 0.6715,
+    "percentGain": 30.28716
+  }
+}
