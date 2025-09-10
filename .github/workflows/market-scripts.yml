@@ -12,6 +12,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Restore last gainers cache
+        uses: actions/cache@v4
+        with:
+          path: lib/lastGainers_*.json
+          key: last-gainers-${{ github.ref }}
+          restore-keys: |
+            last-gainers-
+
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
@@ -25,8 +33,6 @@ jobs:
           FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          # Add more secrets as needed below:
-          # ANOTHER_SECRET: ${{ secrets.ANOTHER_SECRET }}
         run: |
           # Get current UTC hour and minute
           hour=$(date -u +"%H")
@@ -54,3 +60,9 @@ jobs:
 
           echo "Running: node lib/fmpTopGainers.js $arg"
           node lib/fmpTopGainers.js $arg
+
+      - name: Save last gainers cache
+        uses: actions/cache@v4
+        with:
+          path: lib/lastGainers_*.json
+          key: last-gainers-${{ github.ref }}-${{ github.run_number }}
