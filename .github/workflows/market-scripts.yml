@@ -1,0 +1,49 @@
+name: Automated Market Scripts
+
+on:
+  schedule:
+    # Every 3 minutes from 11:45 to 23:30 UTC, Mon-Fri
+    - cron: '*/3 11-23 * * 1-5'
+
+jobs:
+  run-market-script:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 'lts/*'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Determine session and run script
+        run: |
+          # Get current UTC hour and minute
+          hour=$(date -u +"%H")
+          minute=$(date -u +"%M")
+          total_minutes=$(( 10#$hour * 60 + 10#$minute ))
+          
+          # Define session boundaries in minutes since midnight UTC
+          premarket_start=$((11 * 60 + 45))   # 11:45 UTC
+          premarket_end=$((13 * 60 + 29))     # 13:29 UTC
+          open_start=$((13 * 60 + 30))        # 13:30 UTC
+          open_end=$((20 * 60 + 59))          # 20:59 UTC
+          afterhours_start=$((21 * 60))       # 21:00 UTC
+          afterhours_end=$((23 * 60 + 30))    # 23:30 UTC
+
+          if [ "$total_minutes" -ge "$premarket_start" ] && [ "$total_minutes" -le "$premarket_end" ]; then
+            arg="premarket"
+          elif [ "$total_minutes" -ge "$open_start" ] && [ "$total_minutes" -le "$open_end" ]; then
+            arg="open"
+          elif [ "$total_minutes" -ge "$afterhours_start" ] && [ "$total_minutes" -le "$afterhours_end" ]; then
+            arg="afterhours"
+          else
+            echo "Not in a valid session window for script execution."
+            exit 0
+          fi
+
+          echo "Running: node fmpTopGainers.js $arg"
+          node fmpTopGainers.js $arg
