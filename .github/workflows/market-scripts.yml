@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Download last gainers state
-        uses: actions/download-artifact@v4
-        with:
-          name: last-gainers-state
-          path: lib
+      - name: Pull latest state file from repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull origin ${{ github.ref_name }}
       - name: Install dependencies
         run: npm install
       - name: Determine session and run script
@@ -58,8 +58,16 @@ jobs:
 
           echo "Running: node lib/fmpTopGainers.js $arg"
           node lib/fmpTopGainers.js $arg
-      - name: Upload last gainers state
-        uses: actions/upload-artifact@v4
-        with:
-          name: last-gainers-state
-          path: lib/lastGainers_*.json
+      - name: Commit and push updated state file
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add lib/lastGainers_*.json || true
+          if git diff --cached --quiet; then
+            echo "No state changes to commit."
+          else
+            git commit -m "chore: update last gainers state [skip ci]" || true
+            git push origin ${{ github.ref_name }}
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
