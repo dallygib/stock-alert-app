@@ -10,18 +10,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Restore last gainers cache
+        uses: actions/cache@v4
+        with:
+          path: lib/lastGainers_*.json
+          key: last-gainers-${{ github.ref }}
+          restore-keys: |
+            last-gainers-
       - name: Install dependencies
         run: npm install
       - name: Determine session and run script
         env:
           FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
-            - name: Restore last gainers cache
-              uses: actions/cache@v4
-              with:
-                path: lib/lastGainers_*.json
-                key: last-gainers-${{ github.ref }}
-                restore-keys: |
-                  last-gainers-
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
@@ -60,8 +60,8 @@ jobs:
 
           echo "Running: node lib/fmpTopGainers.js $arg"
           node lib/fmpTopGainers.js $arg
-            - name: Save last gainers cache
-              uses: actions/cache@v4
-              with:
-                path: lib/lastGainers_*.json
-                key: last-gainers-${{ github.ref }}-${{ github.run_number }}
+      - name: Save last gainers cache
+        uses: actions/cache@v4
+        with:
+          path: lib/lastGainers_*.json
+          key: last-gainers-${{ github.ref }}-${{ github.run_number }}
