@@ -62,6 +62,8 @@ jobs:
           echo "Running: node lib/fmpTopGainers.js $arg"
           node lib/fmpTopGainers.js $arg
       - name: Commit and push updated state file
+        env:
+          ACTIONS_PAT: ${{ secrets.ACTIONS_PAT }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -70,7 +72,6 @@ jobs:
             echo "No state changes to commit."
           else
             git commit -m "chore: update last gainers state [skip ci]" || true
+            git remote set-url origin https://x-access-token:${ACTIONS_PAT}@github.com/${{ github.repository }}.git
             git push origin ${{ github.ref_name }}
           fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
