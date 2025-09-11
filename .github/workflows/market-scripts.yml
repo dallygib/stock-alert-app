@@ -60,9 +60,16 @@ jobs:
 
           echo "Running: node lib/fmpTopGainers.js $arg"
           node lib/fmpTopGainers.js $arg
-      - name: Save last gainers cache
+      - name: Save last gainers cache (unique key)
         uses: actions/cache@v4
         with:
-            path: lib/lastGainers_*.json
-            key: last-gainers-${{ github.ref }}
-            save-always: true
+          path: lib/lastGainers_*.json
+          key: last-gainers-${{ github.ref }}-${{ github.run_id }}
+
+      - name: Update static last gainers cache key
+        uses: actions/cache/restore@v4
+        with:
+          path: lib/lastGainers_*.json
+          key: last-gainers-${{ github.ref }}
+          restore-keys: |
+            last-gainers-
