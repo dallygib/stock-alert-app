@@ -63,5 +63,6 @@ jobs:
       - name: Save last gainers cache
         uses: actions/cache@v4
         with:
-          path: lib/lastGainers_*.json
-          key: last-gainers-${{ github.ref }}-${{ github.run_number }}
+            path: lib/lastGainers_*.json
+            key: last-gainers-${{ github.ref }}
+            save-always: true
