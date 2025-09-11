@@ -10,13 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Restore last gainers cache
-        uses: actions/cache@v4
+      - name: Download last gainers state
+        uses: actions/download-artifact@v4
         with:
-          path: lib/lastGainers_*.json
-          key: last-gainers-${{ github.ref }}
-          restore-keys: |
-            last-gainers-
+          name: last-gainers-state
+          path: lib
       - name: Install dependencies
         run: npm install
       - name: Determine session and run script
@@ -60,16 +58,8 @@ jobs:
 
           echo "Running: node lib/fmpTopGainers.js $arg"
           node lib/fmpTopGainers.js $arg
-      - name: Save last gainers cache (unique key)
-        uses: actions/cache@v4
+      - name: Upload last gainers state
+        uses: actions/upload-artifact@v4
         with:
+          name: last-gainers-state
           path: lib/lastGainers_*.json
-          key: last-gainers-${{ github.ref }}-${{ github.run_id }}
-
-      - name: Update static last gainers cache key
-        uses: actions/cache/restore@v4
-        with:
-          path: lib/lastGainers_*.json
-          key: last-gainers-${{ github.ref }}
-          restore-keys: |
-            last-gainers-
