@@ -1,0 +1,78 @@
+{
+  "NXTT": {
+    "price": 0.355,
+    "percentGain": 97.22222
+  },
+  "VNCE": {
+    "price": 3.14,
+    "percentGain": 89.15663
+  },
+  "MOGU": {
+    "price": 4.61,
+    "percentGain": 84.4
+  },
+  "VINO": {
+    "price": 0.11055,
+    "percentGain": 84.25
+  },
+  "OPEN": {
+    "price": 10.52,
+    "percentGain": 79.52218
+  },
+  "AIRE": {
+    "price": 1.23,
+    "percentGain": 75.71429
+  },
+  "PFSA": {
+    "price": 0.4612,
+    "percentGain": 74.03774
+  },
+  "WLDS": {
+    "price": 8.11,
+    "percentGain": 56.56371
+  },
+  "AEI": {
+    "price": 3.72,
+    "percentGain": 56.30252
+  },
+  "NUAI": {
+    "price": 0.5733,
+    "percentGain": 47.94839
+  },
+  "AMST": {
+    "price": 3.87,
+    "percentGain": 44.40299
+  },
+  "TGL": {
+    "price": 1.27,
+    "percentGain": 42.37668
+  },
+  "ZDAI": {
+    "price": 0.58,
+    "percentGain": 39.02205
+  },
+  "PROK": {
+    "price": 2.98,
+    "percentGain": 37.96296
+  },
+  "MSC": {
+    "price": 4.74,
+    "percentGain": 37.3913
+  },
+  "BSGM": {
+    "price": 6.1,
+    "percentGain": 37.07865
+  },
+  "OCC": {
+    "price": 8.56,
+    "percentGain": 36.30573
+  },
+  "CRCG": {
+    "price": 9.73,
+    "percentGain": 34.95146
+  },
+  "GRI": {
+    "price": 2.05,
+    "percentGain": 31.41026
+  }
+}
