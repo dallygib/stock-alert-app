@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Install dependencies
+        run: npm install
       - name: Determine session and run script
         env:
           FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
