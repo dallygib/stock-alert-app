@@ -74,5 +74,9 @@
   "GRI": {
     "price": 2.05,
     "percentGain": 31.41026
+  },
+  "OPI": {
+    "price": 0.4247,
+    "percentGain": 37.57694
   }
 }
