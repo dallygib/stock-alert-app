@@ -112,8 +112,8 @@
     "percentGain": 105.79519
   },
   "ISPC": {
-    "price": 2.185,
-    "percentGain": 65.5303
+    "price": 2.4011,
+    "percentGain": 81.90152
   },
   "MODD": {
     "price": 0.9402,
@@ -150,5 +150,9 @@
   "MGRT": {
     "price": 4.5999,
     "percentGain": 30.67898
+  },
+  "XHG": {
+    "price": 1.51,
+    "percentGain": 39.81481
   }
 }
