@@ -76,8 +76,8 @@
     "percentGain": 31.41026
   },
   "OPI": {
-    "price": 0.6,
-    "percentGain": 94.36346
+    "price": 0.7491,
+    "percentGain": 142.66278
   },
   "MAYAR": {
     "price": 0.605,
@@ -96,8 +96,8 @@
     "percentGain": 52.71084
   },
   "VSTD": {
-    "price": 2.02,
-    "percentGain": 56.58915
+    "price": 2.095,
+    "percentGain": 62.4031
   },
   "ADXN": {
     "price": 11.49,
@@ -120,7 +120,7 @@
     "percentGain": 34.27592
   },
   "HUIZ": {
-    "price": 3.721,
-    "percentGain": 31.4841
+    "price": 4.03,
+    "percentGain": 42.40283
   }
 }
