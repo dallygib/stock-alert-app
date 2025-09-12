@@ -76,8 +76,8 @@
     "percentGain": 31.41026
   },
   "OPI": {
-    "price": 0.4247,
-    "percentGain": 37.57694
+    "price": 0.519,
+    "percentGain": 68.12439
   },
   "MAYAR": {
     "price": 0.605,
@@ -96,11 +96,23 @@
     "percentGain": 52.71084
   },
   "VSTD": {
-    "price": 1.89,
-    "percentGain": 46.51163
+    "price": 2.02,
+    "percentGain": 56.58915
   },
   "ADXN": {
     "price": 11.49,
     "percentGain": 30.8656
+  },
+  "ICCT": {
+    "price": 0.1,
+    "percentGain": 1328.57143
+  },
+  "AGAE": {
+    "price": 1.875,
+    "percentGain": 105.79519
+  },
+  "ISPC": {
+    "price": 1.8001,
+    "percentGain": 36.37121
   }
 }
