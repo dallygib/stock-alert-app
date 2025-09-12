@@ -96,8 +96,8 @@
     "percentGain": 73.79518
   },
   "VSTD": {
-    "price": 2.095,
-    "percentGain": 62.4031
+    "price": 2.1693,
+    "percentGain": 68.16279
   },
   "ADXN": {
     "price": 11.49,
@@ -168,11 +168,15 @@
     "percentGain": 32.07547
   },
   "SONN": {
-    "price": 5.26,
-    "percentGain": 32.82828
+    "price": 5.465,
+    "percentGain": 38.00505
   },
   "ZGM": {
     "price": 3.92,
     "percentGain": 41.51625
+  },
+  "SPRB": {
+    "price": 12,
+    "percentGain": 34.83146
   }
 }
