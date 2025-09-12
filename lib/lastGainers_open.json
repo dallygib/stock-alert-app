@@ -84,8 +84,8 @@
     "percentGain": 202.5
   },
   "GCTK": {
-    "price": 12.4999,
-    "percentGain": 156.67146
+    "price": 13.1621,
+    "percentGain": 170.26899
   },
   "COCP": {
     "price": 2.4602,
@@ -112,8 +112,8 @@
     "percentGain": 105.79519
   },
   "ISPC": {
-    "price": 2.0691,
-    "percentGain": 56.75
+    "price": 2.185,
+    "percentGain": 65.5303
   },
   "MODD": {
     "price": 0.9402,
@@ -146,5 +146,9 @@
   "FSHPR": {
     "price": 0.1596,
     "percentGain": 33
+  },
+  "MGRT": {
+    "price": 4.5999,
+    "percentGain": 30.67898
   }
 }
