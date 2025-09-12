@@ -166,5 +166,9 @@
   "FTFT": {
     "price": 3.5,
     "percentGain": 32.07547
+  },
+  "SONN": {
+    "price": 5.26,
+    "percentGain": 32.82828
   }
 }
