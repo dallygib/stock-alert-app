@@ -92,8 +92,8 @@
     "percentGain": 70.84722
   },
   "HCWB": {
-    "price": 5.408,
-    "percentGain": 62.89157
+    "price": 5.58,
+    "percentGain": 68.07229
   },
   "VSTD": {
     "price": 2.095,
@@ -142,5 +142,9 @@
   "CNFR": {
     "price": 1.25,
     "percentGain": 34.4086
+  },
+  "FSHPR": {
+    "price": 0.1596,
+    "percentGain": 33
   }
 }
