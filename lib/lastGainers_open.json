@@ -78,5 +78,29 @@
   "OPI": {
     "price": 0.4247,
     "percentGain": 37.57694
+  },
+  "MAYAR": {
+    "price": 0.605,
+    "percentGain": 202.5
+  },
+  "GCTK": {
+    "price": 11.71,
+    "percentGain": 140.45175
+  },
+  "COCP": {
+    "price": 2.4602,
+    "percentGain": 70.84722
+  },
+  "HCWB": {
+    "price": 5.07,
+    "percentGain": 52.71084
+  },
+  "VSTD": {
+    "price": 1.89,
+    "percentGain": 46.51163
+  },
+  "ADXN": {
+    "price": 11.49,
+    "percentGain": 30.8656
   }
 }
