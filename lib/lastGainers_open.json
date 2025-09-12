@@ -112,8 +112,8 @@
     "percentGain": 105.79519
   },
   "ISPC": {
-    "price": 1.8001,
-    "percentGain": 36.37121
+    "price": 1.9,
+    "percentGain": 43.93939
   },
   "MODD": {
     "price": 0.9402,
@@ -124,19 +124,23 @@
     "percentGain": 42.40283
   },
   "ATCH": {
-    "price": 0.3737,
-    "percentGain": 46.95242
+    "price": 0.414,
+    "percentGain": 62.79984
   },
   "ENTO": {
     "price": 3.0873,
     "percentGain": 34.23043
   },
   "FOFO": {
-    "price": 6.05,
-    "percentGain": 51.25
+    "price": 7.98,
+    "percentGain": 99.5
   },
   "PLRZ": {
     "price": 1.272,
     "percentGain": 30.12788
+  },
+  "CNFR": {
+    "price": 1.25,
+    "percentGain": 34.4086
   }
 }
