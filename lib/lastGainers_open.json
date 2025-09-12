@@ -76,8 +76,8 @@
     "percentGain": 31.41026
   },
   "OPI": {
-    "price": 0.519,
-    "percentGain": 68.12439
+    "price": 0.5519,
+    "percentGain": 78.78199
   },
   "MAYAR": {
     "price": 0.605,
@@ -114,5 +114,13 @@
   "ISPC": {
     "price": 1.8001,
     "percentGain": 36.37121
+  },
+  "MODD": {
+    "price": 0.9402,
+    "percentGain": 34.27592
+  },
+  "HUIZ": {
+    "price": 3.721,
+    "percentGain": 31.4841
   }
 }
