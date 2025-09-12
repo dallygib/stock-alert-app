@@ -128,8 +128,8 @@
     "percentGain": 62.79984
   },
   "ENTO": {
-    "price": 3.0873,
-    "percentGain": 34.23043
+    "price": 3.21,
+    "percentGain": 39.56522
   },
   "FOFO": {
     "price": 14.36,
@@ -156,8 +156,8 @@
     "percentGain": 58.33333
   },
   "EVTV": {
-    "price": 3.91,
-    "percentGain": 42.17665
+    "price": 4.135,
+    "percentGain": 50.35817
   },
   "CIIT": {
     "price": 1.06,
@@ -168,8 +168,8 @@
     "percentGain": 32.07547
   },
   "SONN": {
-    "price": 5.465,
-    "percentGain": 38.00505
+    "price": 5.92,
+    "percentGain": 49.49495
   },
   "ZGM": {
     "price": 3.92,
@@ -178,5 +178,9 @@
   "SPRB": {
     "price": 12,
     "percentGain": 34.83146
+  },
+  "BGLC": {
+    "price": 5.6,
+    "percentGain": 30.21742
   }
 }
