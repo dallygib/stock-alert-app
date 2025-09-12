@@ -132,8 +132,8 @@
     "percentGain": 34.23043
   },
   "FOFO": {
-    "price": 13.23,
-    "percentGain": 230.75
+    "price": 14.36,
+    "percentGain": 259
   },
   "PLRZ": {
     "price": 1.272,
@@ -156,11 +156,15 @@
     "percentGain": 58.33333
   },
   "EVTV": {
-    "price": 3.62,
-    "percentGain": 31.63158
+    "price": 3.91,
+    "percentGain": 42.17665
   },
   "CIIT": {
-    "price": 1.01,
-    "percentGain": 38.46998
+    "price": 1.06,
+    "percentGain": 45.32492
+  },
+  "FTFT": {
+    "price": 3.5,
+    "percentGain": 32.07547
   }
 }
