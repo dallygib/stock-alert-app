@@ -122,5 +122,13 @@
   "HUIZ": {
     "price": 4.03,
     "percentGain": 42.40283
+  },
+  "ATCH": {
+    "price": 0.3602,
+    "percentGain": 41.64373
+  },
+  "ENTO": {
+    "price": 3.0873,
+    "percentGain": 34.23043
   }
 }
