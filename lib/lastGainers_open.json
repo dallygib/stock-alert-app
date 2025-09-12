@@ -170,5 +170,9 @@
   "SONN": {
     "price": 5.26,
     "percentGain": 32.82828
+  },
+  "ZGM": {
+    "price": 3.92,
+    "percentGain": 41.51625
   }
 }
