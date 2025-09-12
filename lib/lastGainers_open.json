@@ -92,8 +92,8 @@
     "percentGain": 70.84722
   },
   "HCWB": {
-    "price": 5.07,
-    "percentGain": 52.71084
+    "price": 5.408,
+    "percentGain": 62.89157
   },
   "VSTD": {
     "price": 2.095,
@@ -130,5 +130,13 @@
   "ENTO": {
     "price": 3.0873,
     "percentGain": 34.23043
+  },
+  "FOFO": {
+    "price": 6.05,
+    "percentGain": 51.25
+  },
+  "PLRZ": {
+    "price": 1.272,
+    "percentGain": 30.12788
   }
 }
