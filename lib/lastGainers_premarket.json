@@ -74,5 +74,65 @@
   "GRI": {
     "price": 2.05,
     "percentGain": 31.41026
+  },
+  "ICCT": {
+    "price": 0.1,
+    "percentGain": 1328.57143
+  },
+  "FOFO": {
+    "price": 12.35,
+    "percentGain": 208.75
+  },
+  "MAYAR": {
+    "price": 0.57,
+    "percentGain": 185
+  },
+  "GCTK": {
+    "price": 10.59,
+    "percentGain": 117.4538
+  },
+  "OPI": {
+    "price": 0.5513,
+    "percentGain": 78.58763
+  },
+  "HCWB": {
+    "price": 5.59,
+    "percentGain": 68.37349
+  },
+  "VSTD": {
+    "price": 2.13,
+    "percentGain": 65.11628
+  },
+  "AGAE": {
+    "price": 1.48,
+    "percentGain": 62.44101
+  },
+  "ATCH": {
+    "price": 0.39,
+    "percentGain": 53.36217
+  },
+  "SONN": {
+    "price": 5.9,
+    "percentGain": 48.9899
+  },
+  "HUIZ": {
+    "price": 4.21,
+    "percentGain": 48.76325
+  },
+  "EVTV": {
+    "price": 4.08,
+    "percentGain": 48.35824
+  },
+  "ISPC": {
+    "price": 1.95,
+    "percentGain": 47.72727
+  },
+  "ZGM": {
+    "price": 4.09,
+    "percentGain": 47.65343
+  },
+  "SPRB": {
+    "price": 12.5,
+    "percentGain": 40.44944
   }
 }
