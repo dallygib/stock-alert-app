@@ -246,5 +246,9 @@
   "ORIS": {
     "price": 0.1917,
     "percentGain": 42
+  },
+  "SNAX": {
+    "price": 0.1,
+    "percentGain": 100
   }
 }
