@@ -176,8 +176,8 @@
     "percentGain": 54.15162
   },
   "SPRB": {
-    "price": 10.4899,
-    "percentGain": 13245.92875
+    "price": 10.5805,
+    "percentGain": 13361.19593
   },
   "BGLC": {
     "price": 5.6,
@@ -222,5 +222,9 @@
   "ONFO": {
     "price": 1.779,
     "percentGain": 57.43363
+  },
+  "AIIO": {
+    "price": 2.3308,
+    "percentGain": 59.64384
   }
 }
