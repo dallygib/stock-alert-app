@@ -124,8 +124,8 @@
     "percentGain": 53.00353
   },
   "ATCH": {
-    "price": 0.414,
-    "percentGain": 62.79984
+    "price": 1.13,
+    "percentGain": 189.74359
   },
   "ENTO": {
     "price": 3.21,
@@ -176,11 +176,39 @@
     "percentGain": 54.15162
   },
   "SPRB": {
-    "price": 12.5,
-    "percentGain": 40.44944
+    "price": 10.3,
+    "percentGain": 13004.3257
   },
   "BGLC": {
     "price": 5.6,
     "percentGain": 30.21742
+  },
+  "CHEK": {
+    "price": 2.75,
+    "percentGain": 270.76985
+  },
+  "NAOV": {
+    "price": 10.74,
+    "percentGain": 65.48536
+  },
+  "LRE": {
+    "price": 2.5155,
+    "percentGain": 61.19833
+  },
+  "RELI": {
+    "price": 1.225,
+    "percentGain": 55.85242
+  },
+  "IHT": {
+    "price": 2.91,
+    "percentGain": 53.96825
+  },
+  "GPUS": {
+    "price": 0.5553,
+    "percentGain": 50.08108
+  },
+  "GLUE": {
+    "price": 6.86,
+    "percentGain": 42.61954
   }
 }
