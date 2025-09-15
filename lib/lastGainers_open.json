@@ -214,5 +214,13 @@
   "BIAF": {
     "price": 0.4015,
     "percentGain": 48.7037
+  },
+  "HSDT": {
+    "price": 19.76,
+    "percentGain": 161.37566
+  },
+  "ONFO": {
+    "price": 1.779,
+    "percentGain": 57.43363
   }
 }
