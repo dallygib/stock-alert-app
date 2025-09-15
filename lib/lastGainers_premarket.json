@@ -134,5 +134,13 @@
   "SPRB": {
     "price": 12.5,
     "percentGain": 40.44944
+  },
+  "BDSX": {
+    "price": 7.502,
+    "percentGain": 1716.46489
+  },
+  "CLSD": {
+    "price": 4.7925,
+    "percentGain": 1270.8524
   }
 }
