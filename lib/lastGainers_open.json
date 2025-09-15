@@ -234,5 +234,9 @@
   "RCEL": {
     "price": 6.88,
     "percentGain": 50.87719
+  },
+  "MSN": {
+    "price": 0.7319,
+    "percentGain": 73.23077
   }
 }
