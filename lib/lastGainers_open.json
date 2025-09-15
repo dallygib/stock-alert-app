@@ -200,8 +200,8 @@
     "percentGain": 55.85242
   },
   "IHT": {
-    "price": 2.91,
-    "percentGain": 53.96825
+    "price": 3.3297,
+    "percentGain": 66.485
   },
   "GPUS": {
     "price": 0.5553,
@@ -226,5 +226,13 @@
   "AIIO": {
     "price": 2.3308,
     "percentGain": 59.64384
+  },
+  "SDOT": {
+    "price": 7.88,
+    "percentGain": 983.01264
+  },
+  "RCEL": {
+    "price": 6.88,
+    "percentGain": 50.87719
   }
 }
