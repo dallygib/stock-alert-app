@@ -228,8 +228,8 @@
     "percentGain": 59.64384
   },
   "SDOT": {
-    "price": 7.93,
-    "percentGain": 989.88455
+    "price": 8.087,
+    "percentGain": 1011.46234
   },
   "RCEL": {
     "price": 6.88,
@@ -242,5 +242,9 @@
   "MTVA": {
     "price": 1.29,
     "percentGain": 85.37146
+  },
+  "ORIS": {
+    "price": 0.1917,
+    "percentGain": 42
   }
 }
