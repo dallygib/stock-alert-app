@@ -238,5 +238,9 @@
   "MSN": {
     "price": 0.7319,
     "percentGain": 73.23077
+  },
+  "MTVA": {
+    "price": 0.98,
+    "percentGain": 40.82483
   }
 }
