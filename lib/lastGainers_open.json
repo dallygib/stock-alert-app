@@ -306,5 +306,13 @@
   "SYRA": {
     "price": 0.081,
     "percentGain": 42.10526
+  },
+  "NFE": {
+    "price": 1.9501,
+    "percentGain": 41.31159
+  },
+  "HCWC": {
+    "price": 0.785,
+    "percentGain": 40.17857
   }
 }
