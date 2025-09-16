@@ -268,8 +268,8 @@
     "percentGain": 116.0292
   },
   "TURB": {
-    "price": 16,
-    "percentGain": 492.59259
+    "price": 19.03,
+    "percentGain": 604.81481
   },
   "FGI": {
     "price": 11.79,
@@ -282,5 +282,13 @@
   "NCT": {
     "price": 1.8599,
     "percentGain": 43.06923
+  },
+  "CODX": {
+    "price": 0.5337,
+    "percentGain": 51.01868
+  },
+  "ADAP": {
+    "price": 0.0935,
+    "percentGain": 40.39039
   }
 }
