@@ -290,5 +290,9 @@
   "ADAP": {
     "price": 0.0935,
     "percentGain": 40.39039
+  },
+  "BOXL": {
+    "price": 2.51,
+    "percentGain": 45.08671
   }
 }
