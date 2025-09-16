@@ -298,5 +298,13 @@
   "FLUX": {
     "price": 3.065,
     "percentGain": 48.06763
+  },
+  "GORV": {
+    "price": 5.29,
+    "percentGain": 115.91837
+  },
+  "SYRA": {
+    "price": 0.081,
+    "percentGain": 42.10526
   }
 }
