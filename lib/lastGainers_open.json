@@ -250,5 +250,17 @@
   "SNAX": {
     "price": 0.1,
     "percentGain": 100
+  },
+  "APVO": {
+    "price": 2.29,
+    "percentGain": 59.02778
+  },
+  "YSXT": {
+    "price": 4.04,
+    "percentGain": 53.61217
+  },
+  "BGI": {
+    "price": 1.29,
+    "percentGain": 51.90768
   }
 }
