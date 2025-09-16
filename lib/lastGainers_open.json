@@ -294,5 +294,9 @@
   "BOXL": {
     "price": 2.82,
     "percentGain": 63.00578
+  },
+  "FLUX": {
+    "price": 3.065,
+    "percentGain": 48.06763
   }
 }
