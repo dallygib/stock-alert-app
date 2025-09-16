@@ -170,5 +170,41 @@
   "GLUE": {
     "price": 6.93,
     "percentGain": 44.07484
+  },
+  "TURB": {
+    "price": 12.4,
+    "percentGain": 359.25926
+  },
+  "FGI": {
+    "price": 9.5,
+    "percentGain": 139.29471
+  },
+  "CODX": {
+    "price": 0.6388,
+    "percentGain": 80.75835
+  },
+  "CNFR": {
+    "price": 1.76,
+    "percentGain": 55.53199
+  },
+  "BGI": {
+    "price": 1.32,
+    "percentGain": 55.44041
+  },
+  "FLUX": {
+    "price": 3.15,
+    "percentGain": 52.17391
+  },
+  "BOXL": {
+    "price": 2.52,
+    "percentGain": 45.66474
+  },
+  "LVRO": {
+    "price": 2.04,
+    "percentGain": 45.53756
+  },
+  "NFE": {
+    "price": 2,
+    "percentGain": 44.92754
   }
 }
