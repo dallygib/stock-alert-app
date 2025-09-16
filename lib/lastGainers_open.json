@@ -272,7 +272,15 @@
     "percentGain": 492.59259
   },
   "FGI": {
-    "price": 9.0801,
-    "percentGain": 128.71788
+    "price": 10.67,
+    "percentGain": 168.76574
+  },
+  "TOPP": {
+    "price": 2.8969,
+    "percentGain": 45.57286
+  },
+  "NCT": {
+    "price": 1.8599,
+    "percentGain": 43.06923
   }
 }
