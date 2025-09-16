@@ -140,8 +140,8 @@
     "percentGain": 30.12788
   },
   "CNFR": {
-    "price": 1.25,
-    "percentGain": 34.4086
+    "price": 1.63,
+    "percentGain": 44.04383
   },
   "FSHPR": {
     "price": 0.1596,
@@ -264,7 +264,15 @@
     "percentGain": 80.19312
   },
   "BREA": {
-    "price": 12.779,
-    "percentGain": 86.55474
+    "price": 14.798,
+    "percentGain": 116.0292
+  },
+  "TURB": {
+    "price": 16,
+    "percentGain": 492.59259
+  },
+  "FGI": {
+    "price": 9.0801,
+    "percentGain": 128.71788
   }
 }
