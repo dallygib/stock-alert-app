@@ -260,7 +260,11 @@
     "percentGain": 53.61217
   },
   "BGI": {
-    "price": 1.29,
-    "percentGain": 51.90768
+    "price": 1.5302,
+    "percentGain": 80.19312
+  },
+  "BREA": {
+    "price": 10.21,
+    "percentGain": 49.05109
   }
 }
