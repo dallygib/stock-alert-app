@@ -318,5 +318,9 @@
   "LEE": {
     "price": 6.45,
     "percentGain": 42.69912
+  },
+  "LVRO": {
+    "price": 2.55,
+    "percentGain": 81.92195
   }
 }
