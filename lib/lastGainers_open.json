@@ -314,5 +314,9 @@
   "HCWC": {
     "price": 0.785,
     "percentGain": 40.17857
+  },
+  "LEE": {
+    "price": 6.45,
+    "percentGain": 42.69912
   }
 }
