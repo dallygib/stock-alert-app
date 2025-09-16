@@ -108,8 +108,8 @@
     "percentGain": 62.44101
   },
   "ATCH": {
-    "price": 0.39,
-    "percentGain": 53.36217
+    "price": 0.94,
+    "percentGain": 141.02564
   },
   "SONN": {
     "price": 5.9,
@@ -132,8 +132,8 @@
     "percentGain": 47.65343
   },
   "SPRB": {
-    "price": 12.5,
-    "percentGain": 40.44944
+    "price": 10.12,
+    "percentGain": 12775.31807
   },
   "BDSX": {
     "price": 7.502,
@@ -142,5 +142,37 @@
   "CLSD": {
     "price": 4.7925,
     "percentGain": 1270.8524
+  },
+  "CHEK": {
+    "price": 2.12,
+    "percentGain": 185.82985
+  },
+  "HSDT": {
+    "price": 18.27,
+    "percentGain": 141.66667
+  },
+  "MTVA": {
+    "price": 1.5,
+    "percentGain": 115.54821
+  },
+  "SNAX": {
+    "price": 0.1,
+    "percentGain": 100
+  },
+  "IHT": {
+    "price": 3.32,
+    "percentGain": 66
+  },
+  "NAOV": {
+    "price": 10.7,
+    "percentGain": 64.86903
+  },
+  "RCEL": {
+    "price": 6.76,
+    "percentGain": 48.24561
+  },
+  "GLUE": {
+    "price": 6.93,
+    "percentGain": 44.07484
   }
 }
