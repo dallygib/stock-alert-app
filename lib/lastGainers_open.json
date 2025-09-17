@@ -332,8 +332,8 @@
     "percentGain": 44.62054
   },
   "CNTM": {
-    "price": 0.1,
-    "percentGain": 400
+    "price": 0.121,
+    "percentGain": 505
   },
   "CDT": {
     "price": 0.9596,
@@ -350,5 +350,9 @@
   "TGE": {
     "price": 3.96,
     "percentGain": 52.89575
+  },
+  "SQFT": {
+    "price": 10.29,
+    "percentGain": 69.52224
   }
 }
