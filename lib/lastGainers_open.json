@@ -332,11 +332,19 @@
     "percentGain": 44.62054
   },
   "CNTM": {
-    "price": 0.089,
-    "percentGain": 345
+    "price": 0.1,
+    "percentGain": 400
   },
   "CDT": {
     "price": 0.9596,
     "percentGain": 49.56359
+  },
+  "SQNS": {
+    "price": 9.39,
+    "percentGain": 878.125
+  },
+  "SPRC": {
+    "price": 4.775,
+    "percentGain": 159.51087
   }
 }
