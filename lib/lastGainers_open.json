@@ -324,11 +324,19 @@
     "percentGain": 81.92195
   },
   "GV": {
-    "price": 2.51,
-    "percentGain": 50.75075
+    "price": 3.7227,
+    "percentGain": 123.58559
   },
   "TNMG": {
     "price": 0.4745,
     "percentGain": 44.62054
+  },
+  "CNTM": {
+    "price": 0.089,
+    "percentGain": 345
+  },
+  "CDT": {
+    "price": 0.9596,
+    "percentGain": 49.56359
   }
 }
