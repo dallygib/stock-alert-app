@@ -354,5 +354,9 @@
   "SQFT": {
     "price": 10.29,
     "percentGain": 69.52224
+  },
+  "APLM": {
+    "price": 19.4,
+    "percentGain": 59.2775
   }
 }
