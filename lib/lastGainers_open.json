@@ -326,5 +326,9 @@
   "GV": {
     "price": 2.51,
     "percentGain": 50.75075
+  },
+  "TNMG": {
+    "price": 0.4745,
+    "percentGain": 44.62054
   }
 }
