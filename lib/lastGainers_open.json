@@ -358,5 +358,9 @@
   "APLM": {
     "price": 19.4,
     "percentGain": 59.2775
+  },
+  "VCIG": {
+    "price": 15.33,
+    "percentGain": 53.3
   }
 }
