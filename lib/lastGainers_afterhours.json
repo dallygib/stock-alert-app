@@ -206,5 +206,33 @@
   "NFE": {
     "price": 2,
     "percentGain": 44.92754
+  },
+  "SQNS": {
+    "price": 9.49,
+    "percentGain": 888.54167
+  },
+  "CNTM": {
+    "price": 0.185,
+    "percentGain": 825
+  },
+  "SPRC": {
+    "price": 4.47,
+    "percentGain": 142.93478
+  },
+  "GV": {
+    "price": 2.8,
+    "percentGain": 68.16817
+  },
+  "APLM": {
+    "price": 18.4331,
+    "percentGain": 51.33908
+  },
+  "SQFT": {
+    "price": 8.88,
+    "percentGain": 46.29325
+  },
+  "CDT": {
+    "price": 0.8989,
+    "percentGain": 40.10287
   }
 }
