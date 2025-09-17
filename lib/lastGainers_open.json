@@ -346,5 +346,9 @@
   "SPRC": {
     "price": 4.775,
     "percentGain": 159.51087
+  },
+  "TGE": {
+    "price": 3.96,
+    "percentGain": 52.89575
   }
 }
