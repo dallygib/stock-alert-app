@@ -234,5 +234,41 @@
   "CDT": {
     "price": 0.8989,
     "percentGain": 40.10287
+  },
+  "ATHA": {
+    "price": 3.83,
+    "percentGain": 913.22751
+  },
+  "ADAP": {
+    "price": 0.16,
+    "percentGain": 98.0198
+  },
+  "CDLX": {
+    "price": 2.755,
+    "percentGain": 92.65734
+  },
+  "ETNB": {
+    "price": 14.96,
+    "percentGain": 85.14851
+  },
+  "LASE": {
+    "price": 4.71,
+    "percentGain": 68.21429
+  },
+  "AERT": {
+    "price": 0.93,
+    "percentGain": 63.84778
+  },
+  "PBM": {
+    "price": 5.3,
+    "percentGain": 42.47312
+  },
+  "SYRA": {
+    "price": 0.089,
+    "percentGain": 42.4
+  },
+  "APVO": {
+    "price": 1.98,
+    "percentGain": 40.42553
   }
 }
