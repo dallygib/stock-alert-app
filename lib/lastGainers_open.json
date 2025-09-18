@@ -378,5 +378,9 @@
   "CDLX": {
     "price": 2.601,
     "percentGain": 81.88811
+  },
+  "LASE": {
+    "price": 3.955,
+    "percentGain": 41.25
   }
 }
