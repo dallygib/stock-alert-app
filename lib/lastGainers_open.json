@@ -366,5 +366,9 @@
   "AERT": {
     "price": 1.12,
     "percentGain": 97.32206
+  },
+  "LAWR": {
+    "price": 2.8426,
+    "percentGain": 40.72277
   }
 }
