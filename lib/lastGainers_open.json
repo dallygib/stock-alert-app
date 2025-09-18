@@ -370,5 +370,13 @@
   "LAWR": {
     "price": 2.8426,
     "percentGain": 40.72277
+  },
+  "ETNB": {
+    "price": 15.02,
+    "percentGain": 85.89109
+  },
+  "CDLX": {
+    "price": 2.245,
+    "percentGain": 56.99301
   }
 }
