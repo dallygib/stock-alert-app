@@ -288,8 +288,8 @@
     "percentGain": 84.57838
   },
   "ADAP": {
-    "price": 0.1419,
-    "percentGain": 75.61881
+    "price": 0.1481,
+    "percentGain": 83.29208
   },
   "BOXL": {
     "price": 2.9797,
@@ -382,5 +382,9 @@
   "LASE": {
     "price": 3.955,
     "percentGain": 41.25
+  },
+  "ATHA": {
+    "price": 3.98,
+    "percentGain": 952.91005
   }
 }
