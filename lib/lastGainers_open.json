@@ -332,8 +332,8 @@
     "percentGain": 44.62054
   },
   "CNTM": {
-    "price": 0.2,
-    "percentGain": 900
+    "price": 0.186,
+    "percentGain": 1590.90909
   },
   "CDT": {
     "price": 0.9596,
@@ -362,5 +362,9 @@
   "VCIG": {
     "price": 15.33,
     "percentGain": 53.3
+  },
+  "AERT": {
+    "price": 1.035,
+    "percentGain": 82.34672
   }
 }
