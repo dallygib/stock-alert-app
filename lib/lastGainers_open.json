@@ -376,8 +376,8 @@
     "percentGain": 85.89109
   },
   "CDLX": {
-    "price": 2.899,
-    "percentGain": 102.72727
+    "price": 3.0799,
+    "percentGain": 115.37762
   },
   "LASE": {
     "price": 5.1888,
@@ -386,5 +386,9 @@
   "ATHA": {
     "price": 4,
     "percentGain": 958.20106
+  },
+  "RAYA": {
+    "price": 0.0632,
+    "percentGain": 41.38702
   }
 }
