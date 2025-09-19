@@ -438,5 +438,9 @@
   "YMAT": {
     "price": 1.89,
     "percentGain": 48.8189
+  },
+  "ABTS": {
+    "price": 7.74,
+    "percentGain": 40.47187
   }
 }
