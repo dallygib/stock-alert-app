@@ -398,5 +398,17 @@
   "ZOOZ": {
     "price": 3.4613,
     "percentGain": 48.55365
+  },
+  "AGMH": {
+    "price": 10.87,
+    "percentGain": 387.44395
+  },
+  "CJET": {
+    "price": 0.2413,
+    "percentGain": 135.64453
+  },
+  "FATN": {
+    "price": 8.93,
+    "percentGain": 49.05443
   }
 }
