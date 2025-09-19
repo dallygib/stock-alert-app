@@ -426,5 +426,9 @@
   "QMCO": {
     "price": 12.49,
     "percentGain": 47.81065
+  },
+  "VRME": {
+    "price": 1.32,
+    "percentGain": 42.6102
   }
 }
