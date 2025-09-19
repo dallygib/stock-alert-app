@@ -434,5 +434,9 @@
   "CLIR": {
     "price": 0.917,
     "percentGain": 83.29003
+  },
+  "YMAT": {
+    "price": 1.89,
+    "percentGain": 48.8189
   }
 }
