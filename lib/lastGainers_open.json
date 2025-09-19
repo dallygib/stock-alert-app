@@ -400,12 +400,12 @@
     "percentGain": 48.55365
   },
   "AGMH": {
-    "price": 12.2,
-    "percentGain": 447.0852
+    "price": 16.19,
+    "percentGain": 626.00897
   },
   "CJET": {
-    "price": 0.2413,
-    "percentGain": 135.64453
+    "price": 0.2521,
+    "percentGain": 146.19141
   },
   "FATN": {
     "price": 8.93,
@@ -414,5 +414,9 @@
   "YAAS": {
     "price": 0.113,
     "percentGain": 49.66887
+  },
+  "UPC": {
+    "price": 5.83,
+    "percentGain": 40.48193
   }
 }
