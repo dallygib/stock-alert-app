@@ -420,7 +420,11 @@
     "percentGain": 40.48193
   },
   "PLTS": {
-    "price": 6.2,
-    "percentGain": 55
+    "price": 6.64,
+    "percentGain": 66
+  },
+  "QMCO": {
+    "price": 11.86,
+    "percentGain": 40.35503
   }
 }
