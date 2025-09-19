@@ -404,19 +404,23 @@
     "percentGain": 626.00897
   },
   "CJET": {
-    "price": 0.2521,
-    "percentGain": 146.19141
+    "price": 0.3059,
+    "percentGain": 198.73047
   },
   "FATN": {
     "price": 8.93,
     "percentGain": 49.05443
   },
   "YAAS": {
-    "price": 0.113,
-    "percentGain": 49.66887
+    "price": 0.122,
+    "percentGain": 61.5894
   },
   "UPC": {
     "price": 5.83,
     "percentGain": 40.48193
+  },
+  "PLTS": {
+    "price": 5.64,
+    "percentGain": 41
   }
 }
