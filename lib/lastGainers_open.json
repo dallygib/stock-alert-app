@@ -394,5 +394,9 @@
   "PBM": {
     "price": 5.31,
     "percentGain": 42.74194
+  },
+  "ZOOZ": {
+    "price": 3.4613,
+    "percentGain": 48.55365
   }
 }
