@@ -270,5 +270,25 @@
   "APVO": {
     "price": 1.98,
     "percentGain": 40.42553
+  },
+  "AGMH": {
+    "price": 10.34,
+    "percentGain": 363.67713
+  },
+  "CJET": {
+    "price": 0.2909,
+    "percentGain": 184.08203
+  },
+  "PLTS": {
+    "price": 7.13,
+    "percentGain": 78.25
+  },
+  "FATN": {
+    "price": 8.89,
+    "percentGain": 48.38677
+  },
+  "QMCO": {
+    "price": 11.88,
+    "percentGain": 40.59172
   }
 }
