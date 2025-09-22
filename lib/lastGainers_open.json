@@ -244,8 +244,8 @@
     "percentGain": 123.9977
   },
   "ORIS": {
-    "price": 0.1917,
-    "percentGain": 42
+    "price": 0.2628,
+    "percentGain": 65.80442
   },
   "SNAX": {
     "price": 0.1,
@@ -292,8 +292,8 @@
     "percentGain": 107.92079
   },
   "BOXL": {
-    "price": 8.2144,
-    "percentGain": 426.5641
+    "price": 8.6249,
+    "percentGain": 452.87821
   },
   "FLUX": {
     "price": 3.065,
@@ -454,5 +454,9 @@
   "HOUS": {
     "price": 11.67,
     "percentGain": 64.71418
+  },
+  "ARBB": {
+    "price": 9.05,
+    "percentGain": 44.8
   }
 }
