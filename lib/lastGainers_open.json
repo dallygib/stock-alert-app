@@ -196,8 +196,8 @@
     "percentGain": 61.19833
   },
   "RELI": {
-    "price": 1.5209,
-    "percentGain": 106.92517
+    "price": 1.8401,
+    "percentGain": 150.35374
   },
   "IHT": {
     "price": 4.02,
@@ -470,5 +470,9 @@
   "KOD": {
     "price": 13.3658,
     "percentGain": 40.24974
+  },
+  "NVNI": {
+    "price": 1.275,
+    "percentGain": 41.66667
   }
 }
