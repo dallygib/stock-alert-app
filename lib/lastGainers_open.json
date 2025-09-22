@@ -460,8 +460,8 @@
     "percentGain": 97.44
   },
   "SLNH": {
-    "price": 1.8388,
-    "percentGain": 70.25926
+    "price": 1.92,
+    "percentGain": 77.77778
   },
   "BKKT": {
     "price": 14.675,
@@ -490,5 +490,9 @@
   "SKBL": {
     "price": 3.36,
     "percentGain": 41.17647
+  },
+  "ATXG": {
+    "price": 1.1702,
+    "percentGain": 41.4139
   }
 }
