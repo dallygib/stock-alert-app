@@ -196,8 +196,8 @@
     "percentGain": 61.19833
   },
   "RELI": {
-    "price": 1.2799,
-    "percentGain": 74.13605
+    "price": 1.5209,
+    "percentGain": 106.92517
   },
   "IHT": {
     "price": 4.02,
@@ -304,8 +304,8 @@
     "percentGain": 135.5102
   },
   "SYRA": {
-    "price": 0.081,
-    "percentGain": 42.10526
+    "price": 0.079,
+    "percentGain": 51.92308
   },
   "NFE": {
     "price": 1.9501,
@@ -458,5 +458,17 @@
   "ARBB": {
     "price": 9.05,
     "percentGain": 44.8
+  },
+  "SLNH": {
+    "price": 1.755,
+    "percentGain": 62.5
+  },
+  "BKKT": {
+    "price": 14.675,
+    "percentGain": 40.56513
+  },
+  "KOD": {
+    "price": 13.3658,
+    "percentGain": 40.24974
   }
 }
