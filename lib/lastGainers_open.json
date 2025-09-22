@@ -482,5 +482,9 @@
   "MBX": {
     "price": 19.83,
     "percentGain": 98.3
+  },
+  "WCT": {
+    "price": 0.4769,
+    "percentGain": 64.61857
   }
 }
