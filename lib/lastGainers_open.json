@@ -456,8 +456,8 @@
     "percentGain": 64.71418
   },
   "ARBB": {
-    "price": 9.42,
-    "percentGain": 50.72
+    "price": 10.25,
+    "percentGain": 64
   },
   "SLNH": {
     "price": 1.8388,
@@ -472,7 +472,7 @@
     "percentGain": 40.24974
   },
   "NVNI": {
-    "price": 1.275,
-    "percentGain": 41.66667
+    "price": 1.335,
+    "percentGain": 48.33333
   }
 }
