@@ -472,11 +472,15 @@
     "percentGain": 40.24974
   },
   "NVNI": {
-    "price": 1.335,
-    "percentGain": 48.33333
+    "price": 1.4405,
+    "percentGain": 60.05556
   },
   "CRE": {
     "price": 0.9401,
     "percentGain": 40.52317
+  },
+  "MBX": {
+    "price": 19.83,
+    "percentGain": 98.3
   }
 }
