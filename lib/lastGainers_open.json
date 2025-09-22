@@ -292,8 +292,8 @@
     "percentGain": 107.92079
   },
   "BOXL": {
-    "price": 2.9797,
-    "percentGain": 72.23699
+    "price": 7.1117,
+    "percentGain": 355.87821
   },
   "FLUX": {
     "price": 3.065,
@@ -442,5 +442,17 @@
   "ABTS": {
     "price": 7.74,
     "percentGain": 40.47187
+  },
+  "AGRI": {
+    "price": 7.92,
+    "percentGain": 228.63071
+  },
+  "QLGN": {
+    "price": 7.63,
+    "percentGain": 168.66197
+  },
+  "HOUS": {
+    "price": 11.67,
+    "percentGain": 64.71418
   }
 }
