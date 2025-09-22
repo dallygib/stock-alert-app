@@ -468,8 +468,8 @@
     "percentGain": 40.56513
   },
   "KOD": {
-    "price": 14.12,
-    "percentGain": 48.16369
+    "price": 14.6753,
+    "percentGain": 53.99056
   },
   "NVNI": {
     "price": 1.4887,
@@ -486,5 +486,9 @@
   "WCT": {
     "price": 0.4769,
     "percentGain": 64.61857
+  },
+  "SKBL": {
+    "price": 3.36,
+    "percentGain": 41.17647
   }
 }
