@@ -520,8 +520,8 @@
     "percentGain": 110.97264
   },
   "DVLT": {
-    "price": 0.66,
-    "percentGain": 60.97561
+    "price": 0.6914,
+    "percentGain": 68.63415
   },
   "ADVM": {
     "price": 4.96,
@@ -536,7 +536,7 @@
     "percentGain": 48.70259
   },
   "AREB": {
-    "price": 1.11,
-    "percentGain": 43.67072
+    "price": 1.1965,
+    "percentGain": 54.86668
   }
 }
