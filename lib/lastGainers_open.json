@@ -502,5 +502,9 @@
   "GLTO": {
     "price": 4.47,
     "percentGain": 49
+  },
+  "EURKR": {
+    "price": 0.2699,
+    "percentGain": 46.28726
   }
 }
