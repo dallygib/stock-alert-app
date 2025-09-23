@@ -532,7 +532,11 @@
     "percentGain": 46.79487
   },
   "SAVA": {
-    "price": 3.2512,
-    "percentGain": 40.13793
+    "price": 3.4499,
+    "percentGain": 48.70259
+  },
+  "AREB": {
+    "price": 1.11,
+    "percentGain": 43.67072
   }
 }
