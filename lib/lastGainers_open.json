@@ -506,5 +506,9 @@
   "EURKR": {
     "price": 0.2699,
     "percentGain": 46.28726
+  },
+  "SSKN": {
+    "price": 2.4613,
+    "percentGain": 44.78235
   }
 }
