@@ -334,5 +334,49 @@
   "SKBL": {
     "price": 3.35,
     "percentGain": 40.7563
+  },
+  "WHLR": {
+    "price": 6.67,
+    "percentGain": 390.44118
+  },
+  "SLE": {
+    "price": 8.51,
+    "percentGain": 159.45122
+  },
+  "IBG": {
+    "price": 0.7569,
+    "percentGain": 105.06638
+  },
+  "DVLT": {
+    "price": 0.7383,
+    "percentGain": 80.07317
+  },
+  "IPDN": {
+    "price": 4.76,
+    "percentGain": 66.43357
+  },
+  "AREB": {
+    "price": 1.23,
+    "percentGain": 59.20269
+  },
+  "SSKN": {
+    "price": 2.59,
+    "percentGain": 52.35294
+  },
+  "SAVA": {
+    "price": 3.41,
+    "percentGain": 46.98276
+  },
+  "EURKR": {
+    "price": 0.2699,
+    "percentGain": 46.28726
+  },
+  "JZXN": {
+    "price": 1.62,
+    "percentGain": 44.64286
+  },
+  "GLTO": {
+    "price": 4.22,
+    "percentGain": 40.66667
   }
 }
