@@ -520,8 +520,8 @@
     "percentGain": 110.97264
   },
   "DVLT": {
-    "price": 0.7468,
-    "percentGain": 82.14634
+    "price": 0.7881,
+    "percentGain": 92.21951
   },
   "ADVM": {
     "price": 4.96,
@@ -536,11 +536,15 @@
     "percentGain": 54.9569
   },
   "AREB": {
-    "price": 1.1965,
-    "percentGain": 54.86668
+    "price": 1.2501,
+    "percentGain": 61.8043
   },
   "JZXN": {
     "price": 1.575,
     "percentGain": 40.625
+  },
+  "WHLR": {
+    "price": 6.68,
+    "percentGain": 391.17647
   }
 }
