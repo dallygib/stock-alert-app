@@ -494,5 +494,13 @@
   "ATXG": {
     "price": 1.1702,
     "percentGain": 41.4139
+  },
+  "IPDN": {
+    "price": 4.8505,
+    "percentGain": 69.5979
+  },
+  "GLTO": {
+    "price": 4.47,
+    "percentGain": 49
   }
 }
