@@ -200,8 +200,8 @@
     "percentGain": 52.17391
   },
   "BOXL": {
-    "price": 2.52,
-    "percentGain": 45.66474
+    "price": 4.77,
+    "percentGain": 205.76923
   },
   "LVRO": {
     "price": 2.04,
@@ -260,8 +260,8 @@
     "percentGain": 42.47312
   },
   "SYRA": {
-    "price": 0.089,
-    "percentGain": 42.4
+    "price": 0.079,
+    "percentGain": 51.92308
   },
   "APVO": {
     "price": 1.98,
@@ -286,5 +286,53 @@
   "QMCO": {
     "price": 11.88,
     "percentGain": 40.59172
+  },
+  "AGRI": {
+    "price": 5.73,
+    "percentGain": 137.75934
+  },
+  "QLGN": {
+    "price": 5.53,
+    "percentGain": 94.71831
+  },
+  "SLNH": {
+    "price": 2.1,
+    "percentGain": 94.44444
+  },
+  "IPST": {
+    "price": 1,
+    "percentGain": 66.66667
+  },
+  "ARBB": {
+    "price": 10.19,
+    "percentGain": 63.04
+  },
+  "NVNI": {
+    "price": 1.46,
+    "percentGain": 62.22222
+  },
+  "KOD": {
+    "price": 15.01,
+    "percentGain": 57.50262
+  },
+  "RELI": {
+    "price": 1.08,
+    "percentGain": 46.93878
+  },
+  "HOUS": {
+    "price": 10.29,
+    "percentGain": 45.54455
+  },
+  "ORIS": {
+    "price": 0.228,
+    "percentGain": 43.84858
+  },
+  "BKKT": {
+    "price": 14.7,
+    "percentGain": 40.8046
+  },
+  "SKBL": {
+    "price": 3.35,
+    "percentGain": 40.7563
   }
 }
