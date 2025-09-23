@@ -36,8 +36,8 @@
     "percentGain": 56.30252
   },
   "NUAI": {
-    "price": 0.5958,
-    "percentGain": 53.75484
+    "price": 1.0004,
+    "percentGain": 64.75626
   },
   "TGL": {
     "price": 1.32,
@@ -508,7 +508,19 @@
     "percentGain": 46.28726
   },
   "SSKN": {
-    "price": 2.4613,
-    "percentGain": 44.78235
+    "price": 2.62,
+    "percentGain": 54.11765
+  },
+  "SLE": {
+    "price": 8.91,
+    "percentGain": 171.64634
+  },
+  "IBG": {
+    "price": 0.7372,
+    "percentGain": 99.72907
+  },
+  "DVLT": {
+    "price": 0.5805,
+    "percentGain": 41.58537
   }
 }
