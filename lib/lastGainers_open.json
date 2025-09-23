@@ -526,5 +526,9 @@
   "ADVM": {
     "price": 4.96,
     "percentGain": 43.3526
+  },
+  "ZSPC": {
+    "price": 2.29,
+    "percentGain": 46.79487
   }
 }
