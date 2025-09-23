@@ -522,5 +522,9 @@
   "DVLT": {
     "price": 0.5805,
     "percentGain": 41.58537
+  },
+  "ADVM": {
+    "price": 4.96,
+    "percentGain": 43.3526
   }
 }
