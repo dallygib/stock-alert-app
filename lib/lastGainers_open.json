@@ -530,5 +530,9 @@
   "ZSPC": {
     "price": 2.29,
     "percentGain": 46.79487
+  },
+  "SAVA": {
+    "price": 3.2512,
+    "percentGain": 40.13793
   }
 }
