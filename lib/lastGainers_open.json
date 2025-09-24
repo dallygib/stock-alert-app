@@ -566,5 +566,9 @@
   "WTMA": {
     "price": 19,
     "percentGain": 65.21739
+  },
+  "SHFS": {
+    "price": 6.59,
+    "percentGain": 102.14724
   }
 }
