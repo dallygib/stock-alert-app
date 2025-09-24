@@ -570,5 +570,9 @@
   "SHFS": {
     "price": 6.765,
     "percentGain": 107.51534
+  },
+  "AQMS": {
+    "price": 5.855,
+    "percentGain": 44.5679
   }
 }
