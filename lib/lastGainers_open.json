@@ -558,5 +558,9 @@
   "XPON": {
     "price": 1.8807,
     "percentGain": 42.47727
+  },
+  "LAC": {
+    "price": 5.8,
+    "percentGain": 88.92508
   }
 }
