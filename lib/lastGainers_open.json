@@ -550,5 +550,9 @@
   "CLPT": {
     "price": 17.88,
     "percentGain": 47.03947
+  },
+  "TNFA": {
+    "price": 5.0999,
+    "percentGain": 45.2963
   }
 }
