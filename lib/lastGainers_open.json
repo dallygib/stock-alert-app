@@ -578,5 +578,9 @@
   "RCT": {
     "price": 1.4305,
     "percentGain": 40.2451
+  },
+  "AKTX": {
+    "price": 1.14,
+    "percentGain": 49.90138
   }
 }
