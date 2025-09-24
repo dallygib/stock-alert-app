@@ -560,7 +560,11 @@
     "percentGain": 42.47727
   },
   "LAC": {
-    "price": 5.8,
-    "percentGain": 88.92508
+    "price": 5.97,
+    "percentGain": 94.46254
+  },
+  "WTMA": {
+    "price": 19,
+    "percentGain": 65.21739
   }
 }
