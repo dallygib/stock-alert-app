@@ -574,5 +574,9 @@
   "AQMS": {
     "price": 5.855,
     "percentGain": 44.5679
+  },
+  "RCT": {
+    "price": 1.4305,
+    "percentGain": 40.2451
   }
 }
