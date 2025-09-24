@@ -548,8 +548,8 @@
     "percentGain": 391.17647
   },
   "CLPT": {
-    "price": 18.5,
-    "percentGain": 52.13816
+    "price": 19.34,
+    "percentGain": 59.04605
   },
   "TNFA": {
     "price": 5.0999,
@@ -568,7 +568,7 @@
     "percentGain": 65.21739
   },
   "SHFS": {
-    "price": 6.59,
-    "percentGain": 102.14724
+    "price": 6.765,
+    "percentGain": 107.51534
   }
 }
