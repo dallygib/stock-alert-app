@@ -546,5 +546,9 @@
   "WHLR": {
     "price": 6.68,
     "percentGain": 391.17647
+  },
+  "CLPT": {
+    "price": 17.88,
+    "percentGain": 47.03947
   }
 }
